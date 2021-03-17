@@ -25,6 +25,7 @@ done
 
 echo "password: ${password}"
 
+
 # cleanup
 rm -rf log
 
