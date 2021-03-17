@@ -27,3 +27,5 @@ echo "password: ${password}"
 
 # cleanup
 rm -rf log
+
+# root_raj <3
