@@ -30,3 +30,4 @@ echo "password: ${password}"
 rm -rf log
 
 # root_raj <3
+
