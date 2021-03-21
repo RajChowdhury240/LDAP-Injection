@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # we just assume that it's that simple
 alphabet="qwertyuiopasdfghjklzxcvbnm"
 
